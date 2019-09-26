@@ -1,2 +1,3 @@
-docker build -t my-mysql .
+#!/bin/sh -eu
 
+docker build -t my-mysql .

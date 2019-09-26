@@ -1,0 +1,6 @@
+*.log
+*.stackdump
+*~
+.env
+core
+logs/
